@@ -12,3 +12,12 @@ Unit Testing: Testing individual components or modules in isolation to ensure th
 Integration Testing: Testing the interaction between different components or modules to ensure they work together correctly.
 System Testing: Testing the entire system to ensure it meets the specified requirements.
 User Acceptance Testing (UAT): Testing the system with end-users to ensure it meets their needs and expectations.
+
+- **Tools**
+The following tools are used for testing in the [Project Name] project:
+
+JUnit: A Java testing framework for unit testing.
+Selenium: A web browser automation tool for testing web applications.
+Postman: A tool for testing APIs.
+Jenkins: A continuous integration and continuous delivery (CI/CD) tool for automating the testing process.
+JIRA: A project management tool for tracking bugs and issues.
